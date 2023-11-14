@@ -1,0 +1,12 @@
+.App {
+  background-color: aliceblue;
+  padding: 40px 0;
+  .inner {
+    width: 1200px;
+    margin: 40px auto;
+    padding: 40px 20px;
+    box-sizing: border-box;
+    background-color: white;
+    border-radius: 20px;
+  }
+}

@@ -1,0 +1,16 @@
+.add-student{
+  button{
+    margin-left: 40px;
+  }
+  input{
+    width: 100px;
+  }
+  
+  label{
+    margin-left: 20px;
+
+    &:first{
+      margin-left: 0;
+    }
+  }
+}

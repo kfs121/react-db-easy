@@ -1,0 +1,28 @@
+// * {outline: 1px dotted red;}
+li{
+  display: flex;
+  gap: 20px;
+  width: 600px;
+  border-bottom: 1px solid #ccc;
+  box-sizing: border-box;
+
+  span{
+    border-right: 2px solid #ccc;
+    box-sizing: border-box;
+  }
+  .id{
+    flex: 3;
+  }
+  .name{
+    flex: 2;
+  }
+  .belong{
+    flex: 2;
+  }
+  .phone{
+    flex: 3;
+  }
+  .status{
+    flex: 1;
+  }
+}
